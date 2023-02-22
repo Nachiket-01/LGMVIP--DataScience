@@ -4,6 +4,7 @@ Beginner Level Task
 Image to Pencil Sketch with Python
 Nachiket Shinde
 
+
 '''
 # Importing Libraries
 import cv2
